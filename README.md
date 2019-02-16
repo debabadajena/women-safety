@@ -1,5 +1,5 @@
 # women-safety
-BACKGROUND:
+# BACKGROUND:
 Safety of Women from sexual assualt and other incidents of sexual violence is an unrelenting and 
 increasingly frequent problem in modern Indian cities. Urban areas have opened up new employment opportunities 
 for women which has also led to a increasing number of working women in urban areas; many of whom are new 
@@ -9,7 +9,7 @@ and during all times of the day and night. When a women is in a situation where 
 to incidents of sexual assault, it is important that she is able to inform her friends and family of the 
 situation immediately, without any delay and on a real-time basis so that help can arrive quickly. 
 
-OUR SOLUTION:
+# OUR SOLUTION:
 USE Shake app (download from playstore and link it with our Women Safety app). When you shake the shakeApp, it should
 open WomenSafety app. When the shaking continues, a message is sent to the predefined numbers "HEY am in DANGER".
 The message shall also contain (a) Coordinates (b) Exact address. The shake in WomenSafety app also triggers the 
