@@ -21,7 +21,6 @@ messages to the phone number about her safety.
 We have also used the pulse sensor, to measure the pulse rate and can be seen when you click on the pulse button. (Make 
 necessary changes in the backend)
 # 2
-We used Alexa developer platform to use our own intents to trigger any Alexa integrated device.
-# 3
-We have used Google Assistant, IFTTT and ADAFRUITS platform with the ESP to send the real-time location (you can use the ESP with UBIDOTS to send your location or use an additional GSM/GPS module) which shall be triggered by voice with some specific keywords (I have used IN DANGER) and then it shall send your location to the number you provide. 
+(a) We used Alexa developer platform to use our own intents to trigger any Alexa integrated device.
+(b) We have used Google Assistant, IFTTT and ADAFRUITS platform with the ESP to send the real-time location (you can use the ESP with UBIDOTS to send your location or use an additional GSM/GPS module) which shall be triggered by voice with some specific keywords (I have used IN DANGER) and then it shall send your location to the number you provide. 
 Note: Connect with your app or a site for sending the messages.
